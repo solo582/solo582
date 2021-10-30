@@ -1,1 +1,1 @@
-My currenly learning is JavaScript.
+A am currently learning is JavaScript.
